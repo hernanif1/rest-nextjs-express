@@ -1,8 +1,9 @@
 {
   "version": 2,
+  "name": "rest-nextjs-express-back",
   "builds": [
     {
-      "src": "./dist/src/index.js",
+      "src": "./src/*.ts",
       "use": "@vercel/node"
     }
   ],
