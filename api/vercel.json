@@ -3,7 +3,7 @@
   "name": "rest-nextjs-express-back",
   "builds": [
     {
-      "src": "./src/*.ts",
+      "src": "./src/index.ts",
       "use": "@vercel/node"
     }
   ],
