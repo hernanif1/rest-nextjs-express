@@ -4,8 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node src/index.ts",
-    "prisma:studio": "npx prisma studio",
-    "build": "tsc"
+    "prisma:studio": "npx prisma studio"
   },
   "dependencies": {
     "@prisma/client": "3.7.0",
