@@ -2,7 +2,7 @@
   "name": "rest-express",
   "version": "1.0.0",
   "license": "MIT",
-  "main": "./dist/src/index.js",
+  "main": "./dist/index.js",
   "engines": {
     "node": "14.x"
   },
